@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171882320993",
+    "project_id": "kotlininstagramclone-da34b",
+    "storage_bucket": "kotlininstagramclone-da34b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171882320993:android:00d08aa0aa69fee1e0c620",
+        "android_client_info": {
+          "package_name": "com.rumeysa.kotlininstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh5ZzwVzyhaC64yO_wjH1eKJwMn8mTU4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
